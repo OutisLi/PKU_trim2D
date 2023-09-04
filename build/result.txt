@@ -1,0 +1,9 @@
+
+TransIonNo= 0    RBSIonNo= 14 
+AverageRange= 8106.197248  Straggling= 1081.569276
+
+
+the energies deposited into diferent ways by ions and by recoiled atoms:(%)
+I_ION= 0.000000   R_ION= 0.000000
+I_VAC= 0.000000   R_VAC= 0.000000
+I_PHON= 0.000000   R_PHON= 0.000000

@@ -1,0 +1,10 @@
+ionenergy(kev):100.0
+ionmass:4.0
+ionz:2.0
+ionangle:0.0
+ionnumber:10000
+displaceenergy:25.0
+channelwidth:0.0
+num_layers:1
+layerthickness:13000.0 density:2.6003 num_elements:1
+elementmass:27.0 elementZ:13.0 elementconcentration:100.0

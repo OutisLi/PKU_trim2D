@@ -1,0 +1,44 @@
+[
+{
+  "directory": "D:/BaiduSyncdisk/Postgraduate/Research/Geant4/Files/PKU_trim2D/build",
+  "command": "C:\\PROGRA~1\\mingw64\\bin\\G__~1.EXE   -g -std=gnu++11 -o CMakeFiles\\MyProject.dir\\main.cpp.obj -c D:\\BaiduSyncdisk\\Postgraduate\\Research\\Geant4\\Files\\PKU_trim2D\\main.cpp",
+  "file": "D:/BaiduSyncdisk/Postgraduate/Research/Geant4/Files/PKU_trim2D/main.cpp",
+  "output": "CMakeFiles/MyProject.dir/main.cpp.obj"
+},
+{
+  "directory": "D:/BaiduSyncdisk/Postgraduate/Research/Geant4/Files/PKU_trim2D/build",
+  "command": "C:\\PROGRA~1\\mingw64\\bin\\G__~1.EXE   -g -std=gnu++11 -o CMakeFiles\\MyProject.dir\\basefunc.cpp.obj -c D:\\BaiduSyncdisk\\Postgraduate\\Research\\Geant4\\Files\\PKU_trim2D\\basefunc.cpp",
+  "file": "D:/BaiduSyncdisk/Postgraduate/Research/Geant4/Files/PKU_trim2D/basefunc.cpp",
+  "output": "CMakeFiles/MyProject.dir/basefunc.cpp.obj"
+},
+{
+  "directory": "D:/BaiduSyncdisk/Postgraduate/Research/Geant4/Files/PKU_trim2D/build",
+  "command": "C:\\PROGRA~1\\mingw64\\bin\\G__~1.EXE   -g -std=gnu++11 -o CMakeFiles\\MyProject.dir\\functions.cpp.obj -c D:\\BaiduSyncdisk\\Postgraduate\\Research\\Geant4\\Files\\PKU_trim2D\\functions.cpp",
+  "file": "D:/BaiduSyncdisk/Postgraduate/Research/Geant4/Files/PKU_trim2D/functions.cpp",
+  "output": "CMakeFiles/MyProject.dir/functions.cpp.obj"
+},
+{
+  "directory": "D:/BaiduSyncdisk/Postgraduate/Research/Geant4/Files/PKU_trim2D/build",
+  "command": "C:\\PROGRA~1\\mingw64\\bin\\G__~1.EXE   -g -std=gnu++11 -o CMakeFiles\\MyProject.dir\\in_output.cpp.obj -c D:\\BaiduSyncdisk\\Postgraduate\\Research\\Geant4\\Files\\PKU_trim2D\\in_output.cpp",
+  "file": "D:/BaiduSyncdisk/Postgraduate/Research/Geant4/Files/PKU_trim2D/in_output.cpp",
+  "output": "CMakeFiles/MyProject.dir/in_output.cpp.obj"
+},
+{
+  "directory": "D:/BaiduSyncdisk/Postgraduate/Research/Geant4/Files/PKU_trim2D/build",
+  "command": "C:\\PROGRA~1\\mingw64\\bin\\G__~1.EXE   -g -std=gnu++11 -o CMakeFiles\\MyProject.dir\\PKUMC_init.cpp.obj -c D:\\BaiduSyncdisk\\Postgraduate\\Research\\Geant4\\Files\\PKU_trim2D\\PKUMC_init.cpp",
+  "file": "D:/BaiduSyncdisk/Postgraduate/Research/Geant4/Files/PKU_trim2D/PKUMC_init.cpp",
+  "output": "CMakeFiles/MyProject.dir/PKUMC_init.cpp.obj"
+},
+{
+  "directory": "D:/BaiduSyncdisk/Postgraduate/Research/Geant4/Files/PKU_trim2D/build",
+  "command": "C:\\PROGRA~1\\mingw64\\bin\\G__~1.EXE   -g -std=gnu++11 -o CMakeFiles\\MyProject.dir\\statistic.cpp.obj -c D:\\BaiduSyncdisk\\Postgraduate\\Research\\Geant4\\Files\\PKU_trim2D\\statistic.cpp",
+  "file": "D:/BaiduSyncdisk/Postgraduate/Research/Geant4/Files/PKU_trim2D/statistic.cpp",
+  "output": "CMakeFiles/MyProject.dir/statistic.cpp.obj"
+},
+{
+  "directory": "D:/BaiduSyncdisk/Postgraduate/Research/Geant4/Files/PKU_trim2D/build",
+  "command": "C:\\PROGRA~1\\mingw64\\bin\\G__~1.EXE   -g -std=gnu++11 -o CMakeFiles\\MyProject.dir\\stoppingPower.cpp.obj -c D:\\BaiduSyncdisk\\Postgraduate\\Research\\Geant4\\Files\\PKU_trim2D\\stoppingPower.cpp",
+  "file": "D:/BaiduSyncdisk/Postgraduate/Research/Geant4/Files/PKU_trim2D/stoppingPower.cpp",
+  "output": "CMakeFiles/MyProject.dir/stoppingPower.cpp.obj"
+}
+]
